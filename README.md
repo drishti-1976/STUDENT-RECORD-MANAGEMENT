@@ -21,9 +21,10 @@ After performing an action, the user is provided with options to return to the m
 The program uses system("cls") to clear the screen for better readability.
 
 ## Note:
-*The program uses an infinite loop to keep the menu running until the user chooses to exit.
-*Each function includes its own user interface and flow control, offering a modular design.
-*Error handling for invalid input is minimal. Users are prompted to enter a valid choice if an invalid option is selected.
-*The program relies on arrays for storage, which may not be scalable for large datasets. Consider using dynamic data structures like vectors for more efficient memory management.
+The program uses an infinite loop to keep the menu running until the user chooses to exit.
+Each function includes its own user interface and flow control, offering a modular design.
+Error handling for invalid input is minimal. Users are prompted to enter a valid choice if an invalid option is selected.
+The program relies on arrays for storage, which may not be scalable for large datasets. Consider using dynamic data structures like vectors for more efficient memory management.
+
 ## Overall 
 this program provides basic functionality for managing student records
